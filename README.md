@@ -136,7 +136,7 @@ JavaScript HTML CSS Express
 ## 06. Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aum-22007&theme=react-dark&bg_color=0D1117&color=9061FF&line=7B1FA2&point=ffffff&area=true&hide_border=false" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meet1086&theme=react-dark&bg_color=0D1117&color=9061FF&line=7B1FA2&point=ffffff&area=true&hide_border=false" width="100%" alt="Activity Graph" />
 </p>
 
 ---
